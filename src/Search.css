@@ -1,0 +1,19 @@
+.Search {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+
+.Search input {
+    width: 40vw;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.Search button {
+    background-color: rgb(111, 111, 220);
+    height: 40px;
+    width: 90px;
+    color: white;
+    font-weight: bold;
+}

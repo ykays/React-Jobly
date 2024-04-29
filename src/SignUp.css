@@ -1,0 +1,38 @@
+
+
+.SignUp {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    width: 50%;
+   
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SignUp-Form {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    padding: 30px;
+    
+
+}
+
+.SignUp-Form input {
+    height: 20px;
+    margin: 10px;
+}
+
+
+
+.SignUp button {
+    background-color: rgb(111, 111, 220);
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}

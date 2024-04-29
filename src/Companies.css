@@ -1,0 +1,11 @@
+.Companies {
+    display: block;
+    
+}
+
+.Companies-List {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
